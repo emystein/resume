@@ -1,0 +1,2 @@
+cat README.md | md2pdf > 'Emiliano Menéndez - Resume.pdf'
+
