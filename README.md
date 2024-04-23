@@ -28,11 +28,11 @@ LinkedIn: https://linkedin.com/in/emilianomenendez
 ## Languages
 
 * Spanish (native)
-* English (technical reading and writing, conversation)
+* English (professional)
 
 
 ## About Me
-I am passionate about computers and programming since I was a boy. I started programming on my
+I have been passionate about computers and programming since I was a boy. I started programming on my
 first computer, a Sinclair ZX Spectrum when I was 12 years old.
 
 The last years, I became obsessed with Object-Oriented Programming and Test-Driven
@@ -60,18 +60,24 @@ I support agile software development practices and open source projects.
 * Distributed systems: Spring Cloud, Akka
 * Enterprise Integration: Camel, Kafka
 * Java Enterprise: Spring Framework, Hibernate/JPA
-* Data: Cassandra, MongoDB, Spark
+* Data: SQL, Cassandra, MongoDB, Spark
 * Search: Solr, Elasticsearch
-* Web: Ruby on Rails, Spring MVC
+* Web: Spring MVC, Next.js
+* Cloud: AWS
 * Deployment: Docker
-
-### Software Development Practices
-* Extreme Programming, Scrum, Kanban
-
 
 ## Work Experience
 
-### Developer, September 2022 – Present
+### Director of Engineering, March 2023 -
+
+Implemented the next generation of the Project Management and Collaboration tools SAAS developed by the company.
+
+The original product was implemented in Odoo. We developed a more scalable solution using part of the original Odoo backend, a new Backend using Node.js, and a whole new Frontend using Next.js, React.js and TypeScript. The system ran completely on AWS.
+
+
+**Tower Systems, LLC**
+
+### Developer, September 2022 – March 2023
 
 **Novobi, LLC**
 
