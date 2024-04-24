@@ -68,25 +68,31 @@ I support agile software development practices and open source projects.
 
 ## Work Experience
 
-### Director of Engineering, March 2023 -
+### Director of Engineering
+
+**Tower Systems, LLC**
+
+***March 2023 -***
 
 Implemented the next generation of the Project Management and Collaboration tools SAAS developed by the company.
 
 The original product was implemented in Odoo. We developed a more scalable solution using part of the original Odoo backend, a new Backend using Node.js, and a whole new Frontend using Next.js, React.js and TypeScript. The system ran completely on AWS.
 
 
-**Tower Systems, LLC**
-
-### Developer, September 2022 – March 2023
+### Developer
 
 **Novobi, LLC**
+
+***September 2022 – March 2023***
 
 Implement and customize Odoo ERP.
 
 
-### Tech Lead, May 2021 – August 2022
+### Tech Lead
 
 **Veritran**
+
+***May 2021 – August 2022***
 
 Maintained of the high-level Transaction layer (front-end and middleware, except Transaction
 runtime) of the Low-code platform developed by Veritran.
@@ -97,9 +103,11 @@ object-oriented model.
 Trained the other team members in Object-Oriented design, Test-Driven Development.
 
 
-### Tech Lead, October 2018 – April 2021
+### Tech Lead
 
 **Tiendanube**
+
+***October 2018 – April 2021***
 
 Migrated the Catalog sub-domain from a monolith implemented in PHP and SQL to
 Microservices implemented in Scala/Akka and following a ES/CQRS architecture.
@@ -111,18 +119,22 @@ Microservices implemented in Scala/Akka and following a ES/CQRS architecture.
 Conducted technical interviews of future members of the team.
 
 
-### Developer, July 2017 – September 2018
+### Developer
 
 **Spredfast**
+
+***July 2017 – September 2018***
 
 Helped to maintain an Apache Spark job that consumed the big data stream of the platform and produced analytics reports.
 
 Developed various RESTful web services with Spring Boot and Spring MVC.
 
 
-### Software Architect, February 2013 – July 2017
+### Software Architect
 
 **Starmount**
+
+***February 2013 – July 2017***
 
 Designed, prototyped and implement scalable, fault-tolerant software components:
 
@@ -133,9 +145,11 @@ Designed, prototyped and implement scalable, fault-tolerant software components:
 Tecnologies applied: Spring Cloud, Camel, Cassandra, Solr
 
 
-### Tech Lead, September 2010 – February 2013
+### Tech Lead
 
 **Starmount**
+
+***September 2010 – February 2013***
 
 Developed a Digital Signage product using Spring Framework in the backend and Adobe Flex in
 the frontend.
@@ -143,9 +157,11 @@ the frontend.
 Conducted technical interviews of future members of the team.
 
 
-### Developer, August 2008 – August 2010
+### Developer
 
 **LPC Condor Technologies**
+
+***August 2008 – August 2010***
 
 Coached the junior developers of the team.
 
@@ -158,17 +174,21 @@ Improved the performance of the ORM in ireviously implemented applications.
 Implemented the CI pipeline for the company Java projects.
 
 
-### Developer, May 2005 – July 2008
+### Developer
 
 **Tintasoft**
+
+***May 2005 – July 2008***
 
 Implemented the Classifieds web for the Cape May County Herald (New Jersey) using
 Spring MVC, Drupal.
 
 
-### Developer, March 1999 – May 2005
+### Developer
 
 **Redmond Software**
+
+***March 1999 – May 2005***
 
 Maintained the Access Control and work hours logging system of several big companies of
 Argentina: Arcor, Sancor, Unilever, Bayer, Agfa, Petroken, Siat, Siderca.
@@ -179,9 +199,11 @@ Developed and maintained PLC interfaced systems using Visual Basic for SADESA, t
 biggest leather producer in Argentina.
 
 
-### Software installer/tester, March 1998 – February 1999
+### Software installer/tester
 
 **Siemens Argentina**
+
+***March 1998 – February 1999***
 
 Installed and configured Microsoft Windows 95, NT and Office software in new computers used by the
 company.
