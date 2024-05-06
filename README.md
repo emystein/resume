@@ -72,20 +72,12 @@ I support agile software development practices and open source projects.
 
 **Tower Systems, LLC**
 
-***March 2023 -***
+***September 2022 -***
 
 Implemented the next generation of the Project Management and Collaboration tools SAAS developed by the company.
 
 The original product was implemented in Odoo. We developed a more scalable solution using part of the original Odoo backend, a new Backend using Node.js, and a whole new Frontend using Next.js, React.js and TypeScript. The system ran completely on AWS.
 
-
-### Developer
-
-**Novobi, LLC**
-
-***September 2022 – March 2023***
-
-Implement and customize Odoo ERP.
 
 
 ### Tech Lead
