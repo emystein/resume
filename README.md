@@ -68,11 +68,19 @@ I support agile software development practices and open source projects.
 
 ## Work Experience
 
+### Senior Software Engineer
+
+**GoFundMe**
+
+***June 2024 -***
+
+Backend development using Claude Code, Codex, Kotlin, Spring, GraphQL, Kafka, Kubernetes, Open Telemetry.
+
 ### Director of Engineering
 
 **Tower Systems, LLC**
 
-***September 2022 -***
+***September 2022 - May 2024***
 
 Implemented the next generation of the Project Management and Collaboration tools SAAS developed by the company.
 
