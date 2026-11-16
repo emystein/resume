@@ -15,14 +15,14 @@ LinkedIn: https://linkedin.com/in/emilianomenendez
 
 ## Education
 
-### High School
-
-**Computer Technician**, Escuela Técnica N° 1 “Otto Krause”, Buenos Aires.
-
-
 ### University
 
-**Computer Science** (unfinished studies). University of Buenos Aires (UBA).
+**Computer Science** (unfinished studies). University of Buenos Aires (UBA), Argentina.
+
+
+### High School
+
+**Computer Technician**, Escuela Técnica N° 1 “Otto Krause”, Buenos Aires, Argentina.
 
 
 ## Languages
