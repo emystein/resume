@@ -1,3 +1,9 @@
-sudo npm install -g md-to-pdf
+# Install the local PDF converter, then generate the CV:
+npm ci
+./makepdf
+
+# makepdf uses Chrome/Chromium from PATH when available, or Puppeteer's browser.
+# To use a browser installed elsewhere:
+# PUPPETEER_EXECUTABLE_PATH=/path/to/chrome ./makepdf
 
 

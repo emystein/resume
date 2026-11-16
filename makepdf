@@ -1,2 +1,33 @@
-cat README.md | md2pdf > 'Emiliano Menéndez - Resume.pdf'
+#!/bin/sh
+set -eu
+
+cd "$(dirname "$0")"
+
+if [ ! -x node_modules/.bin/md-to-pdf ]; then
+    printf '%s\n' 'Missing PDF dependencies. Run npm ci first.' >&2
+    exit 1
+fi
+
+# Use an installed browser when Puppeteer's downloaded Chromium is unavailable.
+# An explicit PUPPETEER_EXECUTABLE_PATH takes precedence.
+if [ -z "${PUPPETEER_EXECUTABLE_PATH:-}" ]; then
+    for browser in google-chrome google-chrome-stable chromium chromium-browser; do
+        if browser_path=$(command -v "$browser"); then
+            export PUPPETEER_EXECUTABLE_PATH="$browser_path"
+            break
+        fi
+    done
+fi
+
+output='Emiliano Menéndez - CV.pdf'
+
+if ! node_modules/.bin/md-to-pdf \
+    --stylesheet pdf.css \
+    --document-title 'Emiliano Menéndez - Curriculum Vitae' \
+    < README.md > "$output" || [ ! -s "$output" ]; then
+    rm -f "$output"
+    printf '%s\n' 'Error: PDF generation failed; output removed.' >&2
+    exit 1
+fi
+printf 'Generated %s\n' "$output"
 
