@@ -19,7 +19,7 @@ if [ -z "${PUPPETEER_EXECUTABLE_PATH:-}" ]; then
     done
 fi
 
-output='Emiliano Menéndez - CV.pdf'
+output='Emiliano Menéndez - Resume.pdf'
 
 if ! node_modules/.bin/md-to-pdf \
     --stylesheet pdf.css \
